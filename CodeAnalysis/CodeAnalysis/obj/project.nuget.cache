@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTtjN/r3oLw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joopa\\RiderProjects\\CodeAnalysis\\CodeAnalysis\\CodeAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joopa\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
+    "C:\\Users\\joopa\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0\\microsoft.codeanalysis.common.4.13.0.nupkg.sha512",
+    "C:\\Users\\joopa\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0\\microsoft.codeanalysis.csharp.4.13.0.nupkg.sha512",
+    "C:\\Users\\joopa\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\joopa\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
