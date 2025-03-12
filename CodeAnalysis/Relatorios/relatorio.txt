@@ -1,0 +1,4 @@
+Relatório de Análise de Código:
+==============================
+- Método encontrado: Validate na linha 5
+- Método encontrado: Handle na linha 7
